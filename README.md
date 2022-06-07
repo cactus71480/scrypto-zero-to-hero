@@ -7,7 +7,8 @@ Articles and videos to get familiar with Rust's syntax
 * Youtube video: [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
 
 Exercises to get a feel for Rust syntax
-* https://github.com/rust-lang/rustlings
+* [Rustlings](https://github.com/rust-lang/rustlings)
+* [Tour of Rust](https://tourofrust.com/)
 
 ## Setting up to write Scrypto
 
