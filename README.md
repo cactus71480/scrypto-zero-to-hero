@@ -6,8 +6,12 @@ Articles and videos to get familiar with Rust's syntax
 * Blog post: [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * Youtube video: [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
 
-## Studying Scrypto Examples 
+## Scrypto Tutorials
+* [First Steps to DeFi: A Scrypto Tutorial](https://www.scrypto-tutorial.com/getting-started/readme)
 
+## Studying Scrypto Examples 
+* [Scrypto Challenge Submissions](https://github.com/radixdlt/scrypto-challenges)
+* 
 
 ## Writing Scrypto from scratch
 
