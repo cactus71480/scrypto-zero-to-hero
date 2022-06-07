@@ -1,4 +1,4 @@
-# Scrypto-Zero-To-Hero
+# Scrypto-Zero-To-Hero [Work in progress]
 
 ## Basic Foundational learning
 
