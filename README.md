@@ -35,7 +35,6 @@ Exercises to get a feel for Rust syntax
 
 * https://blog.thoughtram.io/string-vs-str-in-rust/
 * https://blog.thoughtram.io/references-in-rust/
-* [https://tourofrust.com/chapter_3_en.html](https://tourofrust.com/)
 * https://doc.rust-lang.org/stable/rust-by-example/custom_types.html
 * https://www.youtube.com/watch?v=T0Xfltu4h3A
 * https://developers.radixdlt.com/
