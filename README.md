@@ -39,3 +39,4 @@ Exercises to get a feel for Rust syntax
 * https://doc.rust-lang.org/stable/rust-by-example/custom_types.html
 * https://www.youtube.com/watch?v=T0Xfltu4h3A
 * https://developers.radixdlt.com/
+* https://bfnightly.bracketproductions.com/
